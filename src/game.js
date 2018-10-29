@@ -10,17 +10,14 @@ var KEY_DIRECTION = {
 var PHASE = {
     DEFAULT:    0,
     INIT:       1,
-
     START:      2,
     IDLE:       3,
     UPDATEDATA: 4,
     MOVE:       5,
     COMBINE:    6,
-    CREATE:        7,
-
+    CREATE:     7,
     RESULT:     8,
-
-    MENU: 9,
+    MENU:       9,
 };
 
 var FONT = "Arial Black";
